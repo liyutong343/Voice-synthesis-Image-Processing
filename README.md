@@ -1,4 +1,4 @@
-# Voice-synthesis-Image-Processing
+# Voice-Synthesis-Image-Processing
 大二夏/Matlab高级编程与工程应用/大作业
 
 In summer of 2022 I took the MATLAB course, which is pretty necessary for a student learning EE. After taking the classes, each of us should finish 2 homework projects out of 4. I chose the voice synthesis and image processing. Actually those 2 are quite easy and the functions they fulfill were not as useful as I thought. But they did help me to be more familiar with MATLAB, this meaning is more important than what they could do.
